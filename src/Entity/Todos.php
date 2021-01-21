@@ -4,9 +4,11 @@ namespace App\Entity;
 
 use App\Repository\TodosRepository;
 use Doctrine\ORM\Mapping as ORM;
+use ApiPlatform\Core\Annotation\ApiResource;
 
 /**
  * @ORM\Entity(repositoryClass=TodosRepository::class)
+ * @ApiResource
  */
 class Todos
 {
