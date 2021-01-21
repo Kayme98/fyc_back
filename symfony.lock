@@ -98,6 +98,9 @@
     "fig/link-util": {
         "version": "1.1.1"
     },
+    "laminas/laminas-zendframework-bridge": {
+        "version": "1.1.1"
+    },
     "nelmio/cors-bundle": {
         "version": "1.5",
         "recipe": {
@@ -117,7 +120,7 @@
         "version": "2.2.3"
     },
     "php": {
-        "version": "7.3"
+        "version": "7.4"
     },
     "phpdocumentor/reflection-common": {
         "version": "2.2.0"
@@ -281,6 +284,9 @@
     },
     "symfony/property-info": {
         "version": "v5.1.8"
+    },
+    "symfony/proxy-manager-bridge": {
+        "version": "v5.1.10"
     },
     "symfony/routing": {
         "version": "5.1",
