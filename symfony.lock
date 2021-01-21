@@ -104,7 +104,7 @@
             "repo": "github.com/symfony/recipes",
             "branch": "master",
             "version": "1.5",
-            "ref": "6bea22e6c564fba3a1391615cada1437d0bde39c"
+            "ref": "6388de23860284db9acce0a7a5d9d13153bcb571"
         },
         "files": [
             "./config/packages/nelmio_cors.yaml"
@@ -117,7 +117,7 @@
         "version": "2.2.3"
     },
     "php": {
-        "version": "7.4"
+        "version": "7.3"
     },
     "phpdocumentor/reflection-common": {
         "version": "2.2.0"
@@ -156,7 +156,7 @@
         ]
     },
     "symfony/asset": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/cache": {
         "version": "v5.1.5"
@@ -201,7 +201,7 @@
         "version": "v2.1.3"
     },
     "symfony/expression-language": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/filesystem": {
         "version": "v5.1.5"
@@ -277,13 +277,10 @@
         "version": "v1.18.1"
     },
     "symfony/property-access": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/property-info": {
-        "version": "v5.1.10"
-    },
-    "symfony/proxy-manager-bridge": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/routing": {
         "version": "5.1",
@@ -312,19 +309,19 @@
         ]
     },
     "symfony/security-core": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/security-csrf": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/security-guard": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/security-http": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/serializer": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/serializer-pack": {
         "version": "v1.0.4"
@@ -342,7 +339,7 @@
         "version": "v2.3.0"
     },
     "symfony/twig-bridge": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/twig-bundle": {
         "version": "5.0",
@@ -378,19 +375,19 @@
         "version": "v5.1.5"
     },
     "symfony/web-link": {
-        "version": "v5.1.10"
+        "version": "v5.1.8"
     },
     "symfony/yaml": {
         "version": "v5.1.5"
     },
     "twig/twig": {
-        "version": "v3.2.1"
+        "version": "v3.1.1"
     },
     "webmozart/assert": {
         "version": "1.9.1"
     },
     "willdurand/negotiation": {
-        "version": "3.0.0"
+        "version": "v2.3.1"
     },
     "zendframework/zend-code": {
         "version": "3.4.1"

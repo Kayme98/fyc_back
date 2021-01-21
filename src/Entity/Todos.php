@@ -3,8 +3,8 @@
 namespace App\Entity;
 
 use App\Repository\TodosRepository;
-use Doctrine\ORM\Mapping as ORM;
 use ApiPlatform\Core\Annotation\ApiResource;
+use Doctrine\ORM\Mapping as ORM;
 
 /**
  * @ORM\Entity(repositoryClass=TodosRepository::class)
